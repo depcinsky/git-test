@@ -1,2 +1,6 @@
 data/
 *.csv
+app.db
+*.sqlite
+data/
+*.csv
