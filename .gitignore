@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# SQLite DB
+auth_app.db
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Env files (keep only .env.example tracked)
+.env
